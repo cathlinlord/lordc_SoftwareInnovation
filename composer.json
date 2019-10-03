@@ -1,13 +1,13 @@
 {
-  "name": "cecil/starter-blog",
+  "name": "Cathlin Lord",
   "description": "Your blog's butler.",
   "license": "MIT",
   "type": "project",
   "authors": [
     {
-      "name": "Arnaud Ligny",
-      "email": "arnaud@ligny.fr",
-      "homepage": "https://arnaudligny.fr",
+      "name": "Cathlin Lord",
+      "email": "lordc@allegheny.edu",
+      "homepage": "https://laughing-golick-c24fdb.netlify.com/about/",
       "role": "Developer"
     }
   ],
