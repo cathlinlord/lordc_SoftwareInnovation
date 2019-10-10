@@ -7,18 +7,11 @@ menu: main
 
 
 
-### [Allegheny College], May 2020 (https://allegheny.edu/)
+### [Allegheny College](https://allegheny.edu/), May 2020
 
 Bachelor of Science in Environmental Science (emphasis on GIS)
 Minor in Computer Science & Global Health Studies	 
 GPA: 3.506/4.00
 Located in Meadville, PA
 
-
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=cecilapp/starter-blog)
-
-### Deploy with [Netlify](https://www.netlify.com)
-
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img
+#add image of allegheny logo
