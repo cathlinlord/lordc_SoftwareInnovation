@@ -5,11 +5,15 @@ menu: main
 ---
 > A ready to use static blog, powered by [Cecil](https://cecil.app) and [Hyde](https://github.com/Cecilapp/theme-hyde).
 
-## How to use?
 
-### Managing content with [Forestry](https://forestry.io)
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
+### [Allegheny College], May 2020 (https://allegheny.edu/)
+
+Bachelor of Science in Environmental Science (emphasis on GIS)
+Minor in Computer Science & Global Health Studies	 
+GPA: 3.506/4.00
+Located in Meadville, PA
+
 
 [![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=cecilapp/starter-blog)
 
