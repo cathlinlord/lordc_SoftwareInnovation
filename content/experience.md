@@ -1,20 +1,24 @@
 ---
-title: Experience 
+title: Experience
 date: 2019-07-09
 menu: main
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app) and [Hyde](https://github.com/Cecilapp/theme-hyde).
 
-## How to use?
 
-### Managing content with [Forestry](https://forestry.io)
+## Workplace
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
+### GIS Research Assistant
+Developed plans and implementation materials for multi-faceted programming in the areas of waste minimization, climate sensitive diets and annual sustainability education cycle
+Researched and proposed plans for collaborative urban reforestation and carbon offset project
+Assessed current status and developed proposed next steps to support Bike Share program
+Developed communications plan for institutional sustainability, including achievement of climate neutrality
+### Sustainability Assistant
+### Forest Tech Inter
+### Park Guide
+### Lifeguard and Water Safety Instructor
 
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=cecilapp/starter-blog)
 
+
+
+## Professional Development
 ### Deploy with [Netlify](https://www.netlify.com)
-
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img
