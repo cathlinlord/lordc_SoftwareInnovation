@@ -9,11 +9,14 @@ menu: main
 
 ### GIS Research Assistant
 Developed plans and implementation materials for multi-faceted programming in the areas of waste minimization, climate sensitive diets and annual sustainability education cycle
+
 Researched and proposed plans for collaborative urban reforestation and carbon offset project
+
 Assessed current status and developed proposed next steps to support Bike Share program
+
 Developed communications plan for institutional sustainability, including achievement of climate neutrality
 ### Sustainability Assistant
-### Forest Tech Inter
+### Forest Tech Intern
 ### Park Guide
 ### Lifeguard and Water Safety Instructor
 
