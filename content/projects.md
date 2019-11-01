@@ -14,5 +14,8 @@ If your goal is managing content quickly, and decide later where to deploy to it
 
 ## Projects
 ### Geographic Information Systems
+-Reintroduction of the European bison (Bison bonasus)in central-eastern Europe:
+a case study.
+  Published September 23, 2019 to the International Journal of GIS. https://www.tandfonline.com/eprint/V3TSCRGP2WJQNMXNMTNC/full?target=10.1080/13658816.2019.1672876
 ### Computer Science
 ### Other Research
