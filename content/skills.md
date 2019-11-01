@@ -4,7 +4,6 @@ date: 2019-07-09
 menu: main
 ---
 
-## How to use?
 
 ## GIS Skills
 ### Software
@@ -30,4 +29,4 @@ menu: main
 -JavaScript
 
 ### Interpersonal
--Detail Oriented 
+-Detail Oriented
