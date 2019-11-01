@@ -23,6 +23,8 @@ a case study.
 -Wind Turbine Suitability Analysis in Lake Erie.
   Developed and presented a Boolean, vector-based wind turbine suitability analysis for waters in Lake Erie, USA
 
+-Shepp's Glacial Deposits of Northwestern Pennsylvania Map
+  Assisted in the digitization of a glacial deposit map under professors from the Environmental and Geology Departments.
 
 ### Computer Science
 -Everyday Sustainability.
