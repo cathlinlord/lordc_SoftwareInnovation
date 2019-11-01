@@ -4,7 +4,6 @@ date: 2019-10-09
 menu: main
 ---
 
-## Projects
 ### Geographic Information Systems
 -Reintroduction of the European bison (Bison bonasus)in central-eastern Europe:
 a case study.
