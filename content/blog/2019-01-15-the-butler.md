@@ -1,5 +1,5 @@
 ---
-title: "The butler"
+title: "About Me"
 date: 2019-02-07T12:37:00.000Z
 image: /images/me.jpg
 tags:
@@ -7,8 +7,9 @@ tags:
   - SSG
 draft: false
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-<!-- excerpt -->
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hello! My name is Cathlin Lord and I am currently a senior at Allegheny College.
+I am majoring in Environmental Science, with a focus in GIS, and double-minoring
+in Computer Science and Global Health Studies. On campus I am research assistant
+in the GIS lab, the Director of Sustainability and Environmental Affairs for
+Allegheny Student Government, a Co-President of Allegheny Against Cancer, and a
+member of Students for Environmental Action.
