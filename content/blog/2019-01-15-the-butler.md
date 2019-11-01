@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: 2019-02-10T12:37:00.000Z
+date: 2019-10-10T12:37:00.000Z
 image: /images/me.jpg
 tags:
   - Cecil
