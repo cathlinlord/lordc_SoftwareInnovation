@@ -41,3 +41,7 @@ menu: main
 
 
 ## Professional Development
+## Conferences
+-Esri User Conference, San Diego, CA. 2018.
+-Northwestern PA GIS Conference, Clarion University, Clarion, PA. 2018.
+-Pennsylvania Environmental Resource Consortium, Penn State University, State College, PA. 2018.
