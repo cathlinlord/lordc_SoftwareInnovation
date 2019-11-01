@@ -1,6 +1,6 @@
 title: "Cathlin Lord"
 baseline: "Your blog's butler."
-description: "A ready to use static blog, powered by Cecil and Hyde."
+description: 
 baseurl: "/"
 canonicalurl: true
 theme: "hyde"
