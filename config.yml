@@ -1,7 +1,7 @@
 title: "Cathlin Lord"
 baseline: "Cathlin Lord's website."
 description: "Cathlin Lord's website."
-  url: "https://cathlinlord.netlify.com"
+  url: https://cathlinlord.netlify.com
 baseurl: "/"
 canonicalurl: true
 theme: "hyde"
