@@ -7,13 +7,18 @@ trajectory, much easier. This allowed me reformat the template to be fitting
 for my own materials. At the beginning of this process, I examined all of the
 given files, to familiarize myself with what was included with the template and
 how everything was connected. From there, I began to edit various parts of the
-content to get a feel for how changes occurred, since my last experince with
+content to get a feel for how changes occurred, since my last experience with
 creating a website was slightly different. Once I became comfortable with the
 material I began to make larger changes, as my past experiences were coming back
 to me. Throughout this process, I did face some challenges with
 making the template my own. The main issues I faced were surrounding adding
 visuals to various pages, such as documents or images. To over come these issues,
-I added the documents as links and............
+I added the documents as links and images had to be added in an image tag. The
+format used for the template only was accepted for the home page and all other
+pages required an image reference tag. The final issue I encountered was
+incorporating Google Analytics to take visitors to my website. To allow Google
+Analytics to run on my website, a script had to be added to my twig file and
+had to include my UA number. 
 
 My overall audience for this website is potential future employers that work
 mainly within the field of Geographic information systems (GIS). This website
