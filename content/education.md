@@ -13,3 +13,5 @@ Bachelor of Science in Environmental Science (emphasis on GIS)
 Minor in Computer Science & Global Health Studies	 
 GPA: 3.506/4.00
 Located in Meadville, PA
+
+<img src="/images/Allegheny.jpg" alt="Education">
