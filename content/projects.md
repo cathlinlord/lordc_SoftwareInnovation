@@ -27,6 +27,9 @@ a case study.
   Assisted in the digitization of a glacial deposit map under professors from the Environmental and Geology Departments.
 
 ### Computer Science
+-French Creek Fish Data Collection App
+  App developed through ArcGIS Online to collect data on fish and water characteristics throughout French Creek Watershed.
+
 -Everyday Sustainability.
   Website created to communicate everyday sustainable life habits created through HTML and CSS.
 
