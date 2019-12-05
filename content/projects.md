@@ -28,7 +28,7 @@ a case study.
 
 ### Computer Science
 -French Creek Fish Data Collection App
-  App developed through [ArcGIS Online](http://gator.maps.arcgis.com/apps/webappviewer/index.html?id=ca827cbc738448aa9daed5017b39127b) to collect data on fish and water characteristics throughout French Creek Watershed.
+  App developed through [ArcGIS Online](http://gator.maps.arcgis.com/apps/webappviewer/index.html?id=ca827cbc738448aa9daed5017b39127b) to collect data on fish and water characteristics throughout French Creek Watershed. See my GitHub repository [here](https://github.com/cathlinlord/CodeProject).
 
 -Everyday Sustainability.
   Website created to communicate everyday sustainable life habits created through HTML and CSS.
