@@ -2,5 +2,6 @@
 title: Resume
 date: 2019-07-09
 menu: main
-image: /images/LordResume.jpg
+
 ---
+<img src="LordResume.jpg"> 
